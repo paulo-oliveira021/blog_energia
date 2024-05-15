@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Blog Energia",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-05-15T17:33:18-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
