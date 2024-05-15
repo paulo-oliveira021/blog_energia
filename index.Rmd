@@ -1,5 +1,5 @@
 ---
-title: "Blog Energia"
+title: "TÍTULO DO BLOG"
 site: distill::distill_website
 listing: posts
 ---

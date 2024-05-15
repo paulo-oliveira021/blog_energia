@@ -1,0 +1,16 @@
+---
+title: "Exemplo de post"
+description: |
+  Descrição do post.
+author:
+  - name: Paulo Augusto
+    url: https://example.com/norajones
+date: 2024-05-15
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

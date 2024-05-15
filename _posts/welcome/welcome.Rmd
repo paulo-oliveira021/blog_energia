@@ -1,12 +1,11 @@
 ---
-title: "Welcome to Blog Energia"
+title: "Bem vindo ao Blog Energia"
 description: |
-  Welcome to our new blog, Blog Energia. We hope you enjoy 
-  reading what we have to say!
+  Welcome to our new blog, Blog Energia. We hope you enjoy reading what we have to say!
 author:
-  - name: Nora Jones 
+  - name: Paulo Augusto 
     url: https://example.com/norajones
-    affiliation: Spacely Sprockets
+    affiliation: UNIFEI
     affiliation_url: https://example.com/spacelysprokets
 date: 05-15-2024
 output:
