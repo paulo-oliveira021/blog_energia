@@ -1,7 +1,8 @@
 name: "blog_energia"
 title: "Blog Energia"
+theme: tema_1.css
 description: |
-  Blog Energia
+  Estudo sobre descarte de painéis fotovoltaicos
 output_dir: "docs"
 navbar:
   right:

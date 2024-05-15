@@ -1,0 +1,18 @@
+---
+title: "Exemplo de publicação"
+description: |
+  Descrição da publicação.
+author: "Autor da publicação"
+date: 05-15-2024
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+TEXTO GENÉRICO
+
+```{r}
+#Exemplo de documento.
+1+1
+```
+
