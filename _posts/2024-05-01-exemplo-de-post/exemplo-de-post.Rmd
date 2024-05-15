@@ -2,7 +2,10 @@
 title: "Exemplo de publicação"
 description: |
   Descrição da publicação.
-author: "Autor da publicação"
+author: 
+  - name: "Autor da publicação"
+    affiliation: "Instituicao do autor"
+institution:
 date: 05-15-2024
 output:
   distill::distill_article:
