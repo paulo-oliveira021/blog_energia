@@ -11,11 +11,9 @@
 /* Optional: embed custom fonts here with `@import`          */
 /* This must remain at the top of this file.                 */
 
-
-
 html {
   /*-- Main font sizes --*/
-  --title-size:      50px;
+  --title-size:      50px; /* Dentro do post */
   --body-size:       1.06rem;
   --code-size:       14px;
   --aside-size:      12px;
@@ -59,9 +57,9 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
+  --title-size:       30px;  /* Tam. titulo */
   --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        15px;
+  --text-size:        20px; /* Tam. "inicio" e "sobre" */
   --hover-color:      white;
   --bkgd-color:       #26BB83;
 }
@@ -75,4 +73,3 @@ d-appendix {
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
-

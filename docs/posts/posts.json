@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2024-05-22-post-de-exemplo-2/",
+    "title": "Post de exemplo 2",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Paulo Augusto Araújo Oliveira",
+        "url": {}
+      }
+    ],
+    "date": "2024-05-22",
+    "categories": [],
+    "contents": "\r\nUm vulcão com o Plotly\r\n\r\n\r\nlibrary(plotly)\r\nplot_ly(z = ~volcano) %>%\r\n  add_surface()\r\n\r\n\r\n\r\nUm mapa\r\n\r\n\r\nlibrary(leaflet)\r\nleaflet() %>%\r\n  addTiles() %>%\r\n  addMarkers(lng = 174.768, lat = -36.852, popup = \"Onde o R Nasceu\")\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2024-05-22T19:07:55-03:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2024-05-01-exemplo-de-post/",
     "title": "Exemplo de publicação",
     "description": "Descrição da publicação.",
@@ -14,6 +31,6 @@
     "contents": "\r\nTEXTO GENÉRICO\r\n\r\n\r\n#Exemplo de documento.\r\n1+1\r\n\r\n[1] 2\r\n\r\n\r\n\r\n\r\n",
     "preview": {},
     "last_modified": "2024-05-15T19:49:10-03:00",
-    "input_file": "exemplo-de-post.knit.md"
+    "input_file": {}
   }
 ]

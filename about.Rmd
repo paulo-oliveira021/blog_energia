@@ -3,7 +3,3 @@ title: "SOBRE O BLOG"
 description: |
   Detalhes sobre o blog
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```

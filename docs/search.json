@@ -6,14 +6,14 @@
       "description": "Detalhes sobre o blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-05-15T19:10:56-03:00"
+      "last_modified": "2024-05-22T18:25:01-03:00"
     },
     {
       "path": "index.html",
       "title": "TÍTULO DO BLOG",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-05-15T19:17:17-03:00"
+      "last_modified": "2024-05-22T18:25:12-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
