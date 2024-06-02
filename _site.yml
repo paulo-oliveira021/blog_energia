@@ -1,14 +1,44 @@
-name: "blog_energia"
-title: "Blog de Energia"
-theme: before_i_sleep.css
-description: |
-  Estudo sobre descarte de painéis fotovoltaicos
+name: "RAERDE-blog"
+
+title: "RAERDE BLOG"
+
 output_dir: "docs"
+
 navbar:
+
   right:
-    - text: "Início"
-      href: index.html
-    - text: "Sobre"
-      href: about.html
-  search: false 
+
+    - icon: 'fa-home'
+      href: sobre.html
+
+    - text: 'PESQUISADORES'
+      menu:
+      
+      - text: 'BRUNO LUPPE'
+      
+      - text: 'PAULO AUGUSTO'
+      
+      - text: 'VICTOR VALERIO'
+        #href: victor.html - ADICIONAR OS LINKS DEPOIS
+
+    - text: 'PROJETOS'
+      menu:
+
+      - text: 'PROJETO 1'
+        
+      - text: 'PROJETO 2'
+
+    - text: 'PARCERIAS'
+      menu:
+
+      - text: 'PARCERIAS 1'
+
+      - text: 'PARCERIAS 2'
+
+    - text: 'DASHBOARD'
+    
+    - text: 'CONTATO'
+
 output: distill::distill_article
+
+theme: modelo_final.css
