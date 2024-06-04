@@ -2,10 +2,10 @@
   "articles": [
     {
       "path": "index.html",
-      "title": " ",
+      "title": "raerde_blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-06-04T16:26:10-03:00"
+      "last_modified": "2024-06-04T17:14:00-03:00"
     },
     {
       "path": "sobre.html",
@@ -13,7 +13,7 @@
       "description": "Principais informações sobre o RAERDE.",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-06-04T16:26:19-03:00"
+      "last_modified": "2024-06-04T16:48:03-03:00"
     }
   ],
   "collections": ["posts/posts.json"]

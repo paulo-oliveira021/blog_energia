@@ -2539,6 +2539,14 @@ d-appendix d-footnote-list a.footnote-backlink {
   <script src="../../site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="../../site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var searchBox = document.querySelector('#distill-search');
+    if (searchBox) {
+      searchBox.setAttribute('placeholder', 'Buscar...');
+    }
+  });
+</script>
 <!--/radix_placeholder_site_in_header-->
 
 

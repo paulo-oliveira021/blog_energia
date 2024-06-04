@@ -5,7 +5,7 @@ title: "RAERDE BLOG"
 output_dir: "docs"
 
 navbar:
-
+  search: docs/search_bar.js
   right:
 
     - icon: 'fa-home'
@@ -38,7 +38,10 @@ navbar:
     - text: 'DASHBOARD'
     
     - text: 'CONTATO'
-  
-output: distill::distill_article
+
+output:
+  distill::distill_article:
+    includes:
+      in_header: "barra_pesquisa.html"
 
 theme: modelo_final.css
