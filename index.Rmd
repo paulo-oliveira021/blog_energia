@@ -1,5 +1,5 @@
 ---
-title: "raerde_blog"
+title: " "
 site: distill::distill_website
 listing: posts
 ---
