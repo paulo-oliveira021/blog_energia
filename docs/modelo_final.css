@@ -20,11 +20,11 @@ html {
   --aside-size:      14px;
   --fig-cap-size:    14px;
   /*-- Principais Cores de Fontes --*/
-  --title-color:     #75AD4E; /*-- TÍTULOS DOS POSTS E TÍTULOS DOS TEMAS --*/
-  --header-color:    #75AD4E; /*-- TÍTULOS DOS POSTS NA PÁG INICIAL --*/
-  --body-color:      #41493B; /*-- TEXTOS DOS TEMAS --*/
-  --aside-color:     #41493B;
-  --fig-cap-color:   #41493B;
+  --title-color:     #EDB00C; /*-- TÍTULOS DOS POSTS E TÍTULOS DOS TEMAS --*/
+  --header-color:    #EDB00C; /*-- TÍTULOS DOS POSTS NA PÁG INICIAL --*/
+  --body-color:      #115A1D; /*-- TEXTOS DOS TEMAS --*/
+  --aside-color:     #115A1D;
+  --fig-cap-color:   #115A1D;
   /*-- Especificando os Tipos de Fontes --*/
   --heading-font:    'Unica One';
   --mono-font:       'Inconsolata'; /*-- CÓDIGO NO POST --*/
@@ -39,10 +39,10 @@ html {
 
 .distill-site-header {
   --title-size:       30px;    /*-- TAMANHO DO NOME DO BLOG --*/
-  --text-color:       #75AD4E; /*-- COR DO TEXTO SEM O MOUSE --*/
+  --text-color:       #EDB00C; /*-- COR DO TEXTO SEM O MOUSE --*/
   --text-size:        18px;    /*-- TAMANHO DOS ITENS --*/
   --hover-color:      white;   /*-- COR DO TEXTO AO PASSAR O MOUSE --*/
-  --bkgd-color:       #41493B; /*-- COR DE FUNDO DO CABEÇALHO --*/
+  --bkgd-color:       #115A1D; /*-- COR DE FUNDO DO CABEÇALHO --*/
 }
 
 
@@ -58,9 +58,9 @@ html {
 /*-- CABEÇALHO DOS ARTIGOS --*/
 d-byline {
   --heading-size:    14px;    /*-- NO POST, autor, afiliação, data --*/
-  --heading-color:   #75AD4E; /*-- NO POST, autor, afiliação, data --*/
+  --heading-color:   #EDB00C; /*-- NO POST, autor, afiliação, data --*/
   --body-size:       14px;    /*-- NO POST, autor, afiliação, data --*/
-  --body-color:      #41493B; /*-- NO POST, autor, afiliação, data --*/
+  --body-color:      #115A1D; /*-- NO POST, autor, afiliação, data --*/
 }
 
 
@@ -85,7 +85,7 @@ d-byline a.name {
 
 d-title p {
   font-weight: bold;
-  color:       #41493B;
+  color:       #115A1D;
   font-size:   14px;
 }
 
@@ -96,7 +96,7 @@ d-title p {
 
 d-article p, d-article ul, d-article ol, d-article blockquote {
   font-weight: bold;
-  color:       #41493B;
+  color:       #115A1D;
   font-size:   14px;
 }
 
@@ -107,7 +107,7 @@ d-article p, d-article ul, d-article ol, d-article blockquote {
 
 .posts-list .metadata {
   font-weight: bold;
-  color:       #41493B;
+  color:       #115A1D;
   font-size:   14px;
 }
 
@@ -119,7 +119,7 @@ d-article p, d-article ul, d-article ol, d-article blockquote {
 body, .posts-list .post-preview p, .posts-list .description p {
   font-family: 'Inconsolata';
   font-weight: bold;
-  color:       #41493B;
+  color:       #115A1D;
   font-size:   14px;
 }
 
@@ -127,7 +127,7 @@ body, .posts-list .post-preview p, .posts-list .description p {
 h1, h2, h3, h4, h5, h6, .posts-list .post-preview h2, .posts-list .description h2 {
   font-family: 'Unica One';
   font-weight: bold;
-  color:       #75AD4E;
+  color:       #EDB00C;
   font-size:   26px;
 }
 
@@ -139,7 +139,7 @@ h1, h2, h3, h4, h5, h6, .posts-list .post-preview h2, .posts-list .description h
 .nav-search {
   font-family: 'Inconsolata';
   font-weight: bold;
-  color:       #41493B;
+  color:       #115A1D;
   font-size:   14px;
 }
 
@@ -155,8 +155,8 @@ h1, h2, h3, h4, h5, h6, .posts-list .post-preview h2, .posts-list .description h
 .distill-site-footer {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        18px;
-  --hover-color:      grey;
-  --bkgd-color:       #75AD4E;
+  --hover-color:      #115A1D;
+  --bkgd-color:       #EDB00C;
 }
 
 

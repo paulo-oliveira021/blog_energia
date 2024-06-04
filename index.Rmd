@@ -9,7 +9,7 @@ listing: posts
 ```{r, warning = F,message = F, error = F, echo = F, fig.align = 'center', out.width = '100%', dpi = 300}
 
 
-knitr::include_graphics('imagens/teste_logo2.png', dpi = 300)
-# Ver se ficou bom e qualquer coisa mudar para a logo que tem texto
+knitr::include_graphics('imagens/logo_ia.png', dpi = 300)
+# Ver se ficou bom
 
 ```

@@ -38,7 +38,7 @@ navbar:
     - text: 'DASHBOARD'
     
     - text: 'CONTATO'
-
+  
 output: distill::distill_article
 
 theme: modelo_final.css
